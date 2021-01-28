@@ -1,0 +1,2 @@
+# CryptoPRISM_blockchain_project
+• Developed a Full Fledged De-centralized Cryptocurrency with all basic Functionalities like Block creation, Block mining, Chain validation, Proof-of-work, SHA256 Hash calculation. • Added Transactions, Consesus Protocol, De-Centralized network(local host: POSTMAN) • Libraries used: datetime, hashlib, json, Flask(Routes and Incoming Requests), jsonify, requests, uuid4, urlparse • Tools used: Python 3, ANACONDA spyder notebook, POSTMAN.
